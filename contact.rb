@@ -11,8 +11,4 @@ class Contact
 		@twitter = twitter
 	end	
 
-	# def add_contact
-		
-	# end
-
 end

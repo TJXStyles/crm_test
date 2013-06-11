@@ -16,5 +16,4 @@ class TestContact < Test::Unit::TestCase
 		assert contact.is_a?(Contact)
 	end
 
-	
 end
