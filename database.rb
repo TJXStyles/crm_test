@@ -8,7 +8,7 @@ class Database
 		@db_array = []
 	end
 
-	def add(param1)
+	def add(contact)
 		@db_array << Contact
 	end
 
